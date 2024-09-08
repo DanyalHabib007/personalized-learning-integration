@@ -108,7 +108,7 @@ The **Personalized Learning Platform** consists of several key components:
 ## 🤝 Contributors
 
 [@Amber Bagchi](https://github.com/amber-bagchi)
-[@Ankit Kumar](https://github.com/iamankit7667)
+[@Avinash Dubey](https://github.com/Just-a-code-lover)
 [@Danyal Habib](https://github.com/DanyalHabib007)
 [@Om Shankar Thakur](https://github.com/Om-Shankar-Thakur)
 
