@@ -89,7 +89,7 @@ The **Personalized Learning Platform** consists of several key components:
 ---
 ## Architecture
 
-![Architecture.png](https://i.postimg.cc/Ss5YMfQk/vvv.png)
+[![vvv.png](https://i.postimg.cc/Ss5YMfQk/vvv.png)](https://postimg.cc/sQY2FSZN)
 
 
 ---
