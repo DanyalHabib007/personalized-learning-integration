@@ -80,7 +80,9 @@ The **Personalized Learning Platform** consists of several key components:
 
 4. Run the frontend (Use any server Apache or Ningnx). 🎨
 
-5. To run Mistral chatbot
+5. Setup Qdrant Vector database using docker [Link](https://qdrant.tech/documentation/quickstart/)
+
+6. To run Mistral chatbot
     ```bash
     chainlit run appy.py
     ```
