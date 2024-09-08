@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Quiz</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div class="container">
+        <h1>Simple Quiz</h1>
+        <div class="question" id="question"></div>
+        <div class="options" id="options"></div>
+        <div id="score">Score: 0</div>
+        <button id="next-btn" onclick="nextQuestion()">Next</button>
+        <button id="feedback-btn" style="display: none;" onclick="showFeedbackForm()">Give Feedback</button>
+    </div>
+
+    <!-- Feedback form section, hidden initially -->
+    <div id="feedback-container" class="container" style="display: none;">
+        <h2>Feedback</h2>
+        <p>How would you rate the difficulty of the quiz?</p>
+        <div class="rating">
+            <span>1 (Easy)</span>
+            <input type="radio" name="rating" value="1">
+            <input type="radio" name="rating" value="2">
+            <input type="radio" name="rating" value="3">
+            <input type="radio" name="rating" value="4">
+            <input type="radio" name="rating" value="5">
+            <span>5 (Hard)</span>
+        </div>
+
+        <p>What is your area of interest?</p>
+        <input type="text" id="interest" placeholder="Enter your area of interest" style="width: 100%; padding: 10px; border-radius: 5px; margin-top: 10px;">
+
+        <button id="submit-feedback-btn" onclick="submitFeedback()">Submit Feedback</button>
+    </div>
+
+    <!-- HTML -->
+<div id="loading" style="display: none;">
+    <img src="loading.gif" alt="Loading..." />
+</div>
+
+    <!-- Recommendation output -->
+    <div id="recommendation" style="display: none;" class="flex-box"></div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/2.1.0/showdown.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>

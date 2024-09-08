@@ -1,0 +1,68 @@
+Welcome to LearnX Academy
+
+At LearnX Academy, we believe that learning should be accessible, engaging, and tailored to every individual's needs. Our platform offers a diverse range of courses designed to empower learners at every level—from beginners to advanced professionals. Whether you're looking to kickstart your programming journey, dive deep into data science, or explore cutting-edge technologies like artificial intelligence, LearnX Academy has something for you.
+
+With our expert instructors, interactive content, and personalized recommendations, we strive to make learning an enjoyable and impactful experience. Our mission is to equip learners with the knowledge and skills they need to succeed in today’s fast-evolving world.
+
+COURSES:
+
+Course ID: 101
+
+Course Name: Introduction to Programming
+Course Details: Learn the basics of programming with Python, including variables, loops, and functions.
+Difficulty Level: Beginner
+Rating: 4.7
+Course ID: 102
+
+Course Name: Data Structures and Algorithms
+Course Details: Explore fundamental data structures (arrays, linked lists) and algorithms (sorting, searching).
+Difficulty Level: Intermediate
+Rating: 4.5
+Course ID: 103
+
+Course Name: Web Development Bootcamp
+Course Details: Comprehensive guide to web development, covering HTML, CSS, JavaScript, and React.
+Difficulty Level: Intermediate
+Rating: 4.8
+Course ID: 104
+
+Course Name: Machine Learning with Python
+Course Details: Introduction to machine learning concepts using Python libraries like Scikit-learn.
+Difficulty Level: Advanced
+Rating: 4.6
+Course ID: 105
+
+Course Name: Database Management Systems
+Course Details: Learn SQL and database design principles to manage and query relational databases.
+Difficulty Level: Beginner
+Rating: 4.4
+Course ID: 106
+
+Course Name: Artificial Intelligence
+Course Details: Dive into AI concepts like neural networks, deep learning, and reinforcement learning.
+Difficulty Level: Advanced
+Rating: 4.9
+Course ID: 107
+
+Course Name: Mobile App Development
+Course Details: Learn to build mobile apps with Flutter for iOS and Android platforms.
+Difficulty Level: Intermediate
+Rating: 4.7
+Course ID: 108
+
+Course Name: Cybersecurity Fundamentals
+Course Details: Learn the basics of cybersecurity, including cryptography, network security, and ethical hacking.
+Difficulty Level: Intermediate
+Rating: 4.6
+Course ID: 109
+
+Course Name: Cloud Computing Essentials
+Course Details: Get an understanding of cloud infrastructure and services, including AWS and Azure.
+Difficulty Level: Beginner
+Rating: 4.5
+Course ID: 110
+
+Course Name: DevOps for Beginners
+Course Details: Introduction to DevOps practices and tools like Docker, Jenkins, and Kubernetes.
+Difficulty Level: Beginner
+Rating: 4.3
