@@ -96,6 +96,8 @@ The **Personalized Learning Platform** consists of several key components:
 ## Link to Demo Video
 [Link](https://drive.google.com/file/d/1hARJEXw9w16s1fkCFQ5SWYbii68IQi0q/view?usp=sharing)
 
+---
+
 ### 💡 How to Use
 - Browse courses, take quizzes, and provide feedback to receive **personalized course recommendations**.
 - Interact with the **Mistral LLM Chatbot** for real-time assistance at any stage of your learning. 🤖💬
