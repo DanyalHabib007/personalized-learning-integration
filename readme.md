@@ -2,7 +2,7 @@
 
 ## 🚀 Overview
 
-Welcome to the **Personalized Learning Integration Platform**! This project brings the power of **adaptive learning** to educational platforms by tailoring content to individual learners’ needs, preferences, and progress. Using cutting-edge technologies like **LLMs** and **vector databases**, students can enjoy a more engaging, effective, and personalized learning experience! 🌟
+Welcome to the **Personalized Learning Integration Platform**! This project brings the power of **adaptive learning** to educational platforms by tailoring content to individual learners’ needs, preferences, and progres. Using cutting-edge technologies like **LLMs** and **vector databases**, students can enjoy a more engaging, effective, and personalized learning experience! 🌟
 
 ---
 
